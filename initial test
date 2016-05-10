@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
+	<link rel="stylesheet" type="text/css" href="css/overflow.css">
+</head>
+<body>
+	<div class="col-md-12">
+		<p>Lorem ipsum dolor sit amet, esse denique ea vim, quo solum aperiri fuisset ea. Ex pro suavitate repudiare, has postea fastidii vivendum cu. No pri volutpat intellegat cotidieque. Meis labitur ne pri. Graece postulant et vix, in ludus volumus ius, ea vide facete pri.
+
+Nostrud urbanitas rationibus pri ne, mea at sale tincidunt. In mea quando scriptorem. Falli ancillae epicurei eu sea, in cum quaestio volutpat philosophia. Pri amet posse audire an, duo veri errem similique ex, per tacimates repudiandae ea. Ea cum graecis laboramus rationibus. Ea laudem dissentiunt vix, consul facilis cu nec.
+
+His ignota luptatum explicari no. Iuvaret antiopam ne eam, facete convenire ne pri. No usu epicuri detraxit reformidans, ei scripta facilis vivendum duo. Iuvaret reformidans ad cum, audiam animal perfecto in est, vocent similique tincidunt usu cu.
+
+Id vero fugit tibique mei. Quo virtute forensibus deseruisse in, cum ne quot magna commune. Ex est oratio impetus. Probo veniam officiis ad usu, eu enim iusto erroribus mei, omnis scaevola voluptatum cu mei.
+			
+		</p>
+	</div>
+	<div>
+		<div class="row" id="text">
+			<div class="col-md-12" id="boxholder">
+				<div class="col-md-4" id="box">
+					<p>Lorem ipsum dolor sit amet, esse denique ea vim, quo solum aperiri fuisset ea. Ex pro suavitate repudiare, has postea fastidii vivendum cu. No pri volutpat intellegat cotidieque. Meis labitur ne pri. Graece postulant et vix, in ludus volumus ius, ea vide facete pri.
+
+Nostrud urbanitas rationibus pri ne, mea at sale tincidunt. In mea quando scriptorem. Falli ancillae epicurei eu sea, in cum quaestio volutpat philosophia. Pri amet posse audire an, duo veri errem similique ex, per tacimates repudiandae ea. Ea cum graecis laboramus rationibus. Ea laudem dissentiunt vix, consul facilis cu nec.
+
+His ignota luptatum explicari no. Iuvaret antiopam ne eam, facete convenire ne pri. No usu epicuri detraxit reformidans, ei scripta facilis vivendum duo. Iuvaret reformidans ad cum, audiam animal perfecto in est, vocent similique tincidunt usu cu.
+
+Id vero fugit tibique mei. Quo virtute forensibus deseruisse in, cum ne quot magna commune. Ex est oratio impetus. Probo veniam officiis ad usu, eu enim iusto erroribus mei, omnis scaevola voluptatum cu mei.</p>
+
+				</div>
+				
+				<div class="col-md-4" id="box">
+					<p>Lorem ipsum dolor sit amet, esse denique ea vim, quo solum aperiri fuisset ea. Ex pro suavitate repudiare, has postea fastidii vivendum cu. No pri volutpat intellegat cotidieque. Meis labitur ne pri. Graece postulant et vix, in ludus volumus ius, ea vide facete pri.
+
+Nostrud urbanitas rationibus pri ne, mea at sale tincidunt. In mea quando scriptorem. Falli ancillae epicurei eu sea, in cum quaestio volutpat philosophia. Pri amet posse audire an, duo veri errem similique ex, per tacimates repudiandae ea. Ea cum graecis laboramus rationibus. Ea laudem dissentiunt vix, consul facilis cu nec.
+
+His ignota luptatum explicari no. Iuvaret antiopam ne eam, facete convenire ne pri. No usu epicuri detraxit reformidans, ei scripta facilis vivendum duo. Iuvaret reformidans ad cum, audiam animal perfecto in est, vocent similique tincidunt usu cu.
+
+Id vero fugit tibique mei. Quo virtute forensibus deseruisse in, cum ne quot magna commune. Ex est oratio impetus. Probo veniam officiis ad usu, eu enim iusto erroribus mei, omnis scaevola voluptatum cu mei.</p>
+				
+				
+				</div>
+
+				<div class="col-md-4" id="box">
+					<p>Lorem ipsum dolor sit amet, esse denique ea vim, quo solum aperiri fuisset ea. Ex pro suavitate repudiare, has postea fastidii vivendum cu. No pri volutpat intellegat cotidieque. Meis labitur ne pri. Graece postulant et vix, in ludus volumus ius, ea vide facete pri.
+
+Nostrud urbanitas rationibus pri ne, mea at sale tincidunt. In mea quando scriptorem. Falli ancillae epicurei eu sea, in cum quaestio volutpat philosophia. Pri amet posse audire an, duo veri errem similique ex, per tacimates repudiandae ea. Ea cum graecis laboramus rationibus. Ea laudem dissentiunt vix, consul facilis cu nec.
+
+His ignota luptatum explicari no. Iuvaret antiopam ne eam, facete convenire ne pri. No usu epicuri detraxit reformidans, ei scripta facilis vivendum duo. Iuvaret reformidans ad cum, audiam animal perfecto in est, vocent similique tincidunt usu cu.
+
+Id vero fugit tibique mei. Quo virtute forensibus deseruisse in, cum ne quot magna commune. Ex est oratio impetus. Probo veniam officiis ad usu, eu enim iusto erroribus mei, omnis scaevola voluptatum cu mei.</p>
+				
+				</div>
+			
+			</div>
+			
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="col-md-12">
+			<div class="col-md-6">
+				
+			</div>
+
+			<div class="col-md-6">
+				
+			</div>
+		</div>
+
+	</div>
+</body>
+</html>
